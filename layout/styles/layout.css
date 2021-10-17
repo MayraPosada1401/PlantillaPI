@@ -318,12 +318,12 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF3F4A !important;}
 .imgover:hover::before{background:rgba(0,0,0,.55);}
 .imgover, .imgover:hover::after{color:#FFFFFF;}
 
-.heading.underline::after{background-color:#A60009;}
+.heading.underline::after{background-color:#a65000;}
 
 
 /* Rows */
 .row0{color:#474747; background-color:#F4F4F4;}
-.row1{color:#FFFFFF; background-color:#FF3F4A;}
+.row1{color:#FFFFFF; background-color:#f3b91a;}
 .row2{color:#474747; background-color:#F4F4F4;}
 .row3{color:#474747; background-color:#FFFFFF;}
 .row4{color:#A5A6AA; background-color:#27282E;}
@@ -333,7 +333,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF3F4A !important;}
 /* Top Bar */
 #topbar #searchform{color:#FF3F4A;}
 #topbar #searchform:hover{}
-#topbar #searchform input{color:#FFFFFF; background:#A60009;}
+#topbar #searchform input{color:#FFFFFF; background:#a66400;}
 #topbar #searchform button{color:#FFFFFF; background:transparent;}
 
 
@@ -349,7 +349,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF3F4A !important;}
 #introblocks article{color:#474747; background-color:#FFFFFF; box-shadow:0px 0px 15px rgba(0,0,0,.1);}
 #introblocks article:hover, #introblocks .active{color:#FFFFFF; background-color:#1C1D21;}
 #introblocks article i{border-color:rgba(0,0,0,.1);}
-#introblocks article:hover i, #introblocks .active i{color:#FFFFFF; background-color:#FF3F4A;}
+#introblocks article:hover i, #introblocks .active i{color:#FFFFFF; background-color:#45ff3f;}
 
 
 /* Content Area */
@@ -357,10 +357,10 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF3F4A !important;}
 .overview article:hover a{color:#FF3F4A;}
 
 #testimonials blockquote{color:#474747; background-color:#FFFFFF;}
-#testimonials blockquote:hover{color:#FFFFFF; background-color:#A60009;}
+#testimonials blockquote:hover{color:#FFFFFF; background-color:#fa9600;}
 #testimonials blockquote::before{color:rgba(0,0,0,.1);}
 #testimonials blockquote::after{border-top-color:#FFFFFF;}
-#testimonials blockquote:hover::after{border-top-color:#A60009;}
+#testimonials blockquote:hover::after{border-top-color:#06a600;}
 
 
 /* Footer */
@@ -371,7 +371,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF3F4A !important;}
 /* Navigation */
 #mainav{}
 #mainav li a{color:inherit; border-color:transparent;}
-#mainav .active a, #mainav a:hover, #mainav li:hover > a{color:#FFFFFF; background-color:#A60009;}
+#mainav .active a, #mainav a:hover, #mainav li:hover > a{color:#FFFFFF; background-color:#c99c07;}
 #mainav li li a, #mainav .active li a{color:#FFFFFF; background-color:rgba(255,63,74,.5);/* #FF3F4A */ border-color:rgba(255,63,74,.5);}
 #mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#A60009; border-color:rgba(255,255,255,.6);}
 #mainav form select{color:#474747; background-color:#FFFFFF;}
