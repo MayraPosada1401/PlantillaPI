@@ -460,7 +460,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF3F4A !important;}
 
 /* Footer */
 #footer .heading{color:#FFFFFF;}
-#footer hr, #footer .borderedbox, #footer .linklist li{border-color:rgba(255,255,255,.1);}
+#footer hr, #footer .borderedbox, #footer .linklist li{border-color:#fa9600;}
 
 
 /* Navigation */
