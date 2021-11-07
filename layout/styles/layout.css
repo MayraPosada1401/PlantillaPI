@@ -511,20 +511,38 @@ table a, #comments a{background-color:inherit;}
 
 /* Max Wrapper Width - Laptop, Desktop etc.
 --------------------------------------------------------------------------------------------------------------- */
+@media screen and (min-width:1310px){
+	.hoc{max-width:1209px;}
+	.margenesusuarios{
+		margin-left: 50px; 
+		margin-right: 0px
+	}
+}
+
+@media screen and (min-width:1309px){
+	.hoc{max-width:1209px;}
+	.margenesusuarios{
+		margin-left: 20px; 
+		margin-right: 20px
+	}
+}
+
 @media screen and (min-width:1140px){
 	.hoc{max-width:1140px;}
+	.margenesusuarios{
+		margin-left: 20px; 
+		margin-right: 20px
+	}
 }
 
 @media screen and (min-width:978px) and (max-width:1140px){
 	.hoc{max-width:95%;}
-}
-
-@media screen and (min-width:720px) and (max-height:702px){
 	.margenesusuarios{
-		margin-left: -10px;
-		margin-right: 0px;
+		margin-left: 20px; 
+		margin-right: 20px
 	}
 }
+
 
 
 /* Mobile Devices
